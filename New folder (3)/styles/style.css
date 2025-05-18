@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	font-family: "Hello", cursive;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 60px;
+}
+
+h2 {
+	font-family: "RandomText", monospace, sans-serif;
+	margin: 5px;
+	font-size: 50px;
+}
+
+h3 {
+	font-family: "GeoLab", sans-serif, monospace;
+	font-size: 30px;
+}
+
+p {
+	font-family: "ptext", cursive;
+	font-size: 30px;
+	margin: 5px;
+}
